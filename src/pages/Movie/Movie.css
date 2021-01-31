@@ -1,0 +1,16 @@
+.movie-page {
+  padding: 0 15px;
+}
+.movie-poster {
+  width: 100%;
+  border-radius: 6px;
+}
+.released {
+  color: #333;
+}
+.ratings-list {
+  margin: 0;
+}
+.imdb-button {
+  margin-top: 20px;
+}

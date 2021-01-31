@@ -1,0 +1,7 @@
+{
+  "name": "MovieBit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
